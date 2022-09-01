@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/listicas/Lista.cpp
+Lista.h
+C:/Users/Asus/CLionProjects/listicas/Lista.h
+Nodo.h
+C:/Users/Asus/CLionProjects/listicas/Nodo.h
+iostream
+-
+
+C:/Users/Asus/CLionProjects/listicas/Lista.h
+cstddef
+-
+Nodo.h
+C:/Users/Asus/CLionProjects/listicas/Nodo.h
+
+C:/Users/Asus/CLionProjects/listicas/Nodo.h
+
